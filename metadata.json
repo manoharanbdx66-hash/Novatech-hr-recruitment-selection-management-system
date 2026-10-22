@@ -1,0 +1,8 @@
+{
+  "name": "NovaTech HR - Recruitment & Selection Management System",
+  "description": "Production-grade Recruitment & Selection Management System for NovaTech Solutions Pvt. Ltd., featuring job posting, candidate tracking, pipeline Kanban, interview scoring, and POM academic alignment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
